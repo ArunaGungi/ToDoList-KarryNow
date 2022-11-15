@@ -1,0 +1,14 @@
+.task {
+    display:inline-block;
+    margin: 10px 10px 10px 10px;
+}
+
+.deletebtn {
+    background-color:green;
+    border-color:green;
+    color: white;
+    width: 8%;
+    height: 10%;
+    font-size: 13px;
+    border-radius: 6%;
+}

@@ -1,0 +1,13 @@
+.taskname {
+    width:20%;
+    padding: 5px 5px 5px 5px;
+    margin-right: 6px;
+}
+
+.addbtn {
+    width: 8%;
+    background-color:bisque;
+    border-color: gainsboro;
+    padding: 5px 5px 5px 5px;
+    font-size: 15px;
+}
